@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="ut-8">
+<title>introduction </title>
+<style>
+body {
+    background-color: #fff8dc;
+    margin: O 10%;
+    font-family: sans-serif;
+     }
+h1 {
+   text-align:center;
+   font-family:serif;
+   font-weight:normal;
+   text-transform:uppercase;
+   border-bottom:1px solid #57b1dc;
+   margin-top: 30px;
+   }
+h2 {
+   color: darkgoldenrod;
+   font-size: 1em;
+   }
+</style>
+</head>
+
+<body>
+<h1><img src="maryam.jpeg" alt ="Maryam's Picture"introduction></h1>
+<h1>Introduction</h1> <P> Hello,<em> Thank you for giving me this opportunity to introduce myself</em>.</P>My name is Maryam Irshad.I am 20 years old. I was born on 15 november and and currently resides in Lahore.I comes from a family of 5 and I always eager to spend time with my loved ones. <h2>Studying & Interest</h2> <p>I am pursuing my BS in E-COMMERCE from hailey college at Punjab University.My roll no is 415.
+
+I have a little bit interest for music and I love to listen to it in my free time.However, I am also afraid of insects-but dont let intimidate you,as Maryam never shies away from new experiences and challenges.</p> <h2>Passion</h2> <p>My passion is cooking.I love cooking because i love experiments.I LOVE to cook at first.I used to help my mom in her cooking.but later I found that I really enjoy cooking.Actually cooking is my favorite activity because it is a way for me to reduce stress and i can be artistic about it and it never gets repitive.</p>
+
+</body>
+
+</html>
